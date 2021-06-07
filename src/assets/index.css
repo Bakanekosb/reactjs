@@ -1,0 +1,401 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  /* padding-top: 3rem; */
+  /* padding-bottom: 3rem; */
+  color: #5a5a5a;
+}
+
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+/* rtl:begin:ignore */
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+/* rtl:end:ignore */
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  /* rtl:remove */
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+
+  .featurette-heading {
+    font-size: 50px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
+  }
+}
+
+
+.footer-logo{
+  margin-bottom: -5px;
+}
+
+.footer-content{
+  height: 410px;
+  background-color: #f8f9fa;
+  
+}
+
+.footer-body{
+  display: grid;
+  grid-template-columns: 355px 250px 320px 1fr;
+  margin-left: 100px;
+  color: black;
+  
+}
+
+.footer-body a:link, .footer-body a:visited{
+  color: black;
+}
+
+.footer-body h4{
+  color:black;
+  margin-bottom: 25px;
+  font-weight: 300;
+}
+
+.contact,.information, .time-payment, .social{
+  padding-top: 85px;
+}
+
+
+.contact-desc{
+  margin-top: 18px;
+  margin-bottom: 36px;
+}
+
+.contact-item{
+  display: grid;
+  grid-template-columns: 26px 1fr;
+  margin-bottom: 20px;
+}
+
+.info-content p{
+  margin-bottom: 16px;
+}
+
+.social-content{
+  display: grid;
+  grid-template-columns: 173px 1fr;
+}
+
+.social-item{
+  display: grid;
+  grid-template-columns: 30px 1fr;
+  margin-bottom: 15px;
+}
+
+.time-content{
+  display: grid;
+  grid-template-columns: 30px 1fr;
+}
+
+.time-desc p{
+  margin-bottom: 16px;
+}
+
+.payment{
+  margin-top: 45px;
+}
+
+.payment-img{
+  display: grid;
+  grid-template-columns: 69px 69px 69px 1fr;
+  margin-bottom: 15px;
+  margin-left: 5px;
+}
+
+.footer-end{
+  margin-top: 20px;
+  height: 80px;
+  background-color: #d1d5da!important;
+}
+
+.footer-copyright{
+  color:black;
+  padding-top: 35px;
+  padding-left: 642px;
+}
+
+body{
+  /* padding-top:4.2rem; */
+/* padding-bottom:4.2rem; */
+background:rgba(0, 0, 0, 0.76);
+  }
+  a{
+   text-decoration:none !important;
+   }
+   h1,h2,h3{
+   font-family: 'Arial', cursive;
+   }
+    .myform{
+position: relative;
+display: -ms-flexbox;
+display: flex;
+padding: 1rem;
+-ms-flex-direction: column;
+flex-direction: column;
+width: 100%;
+pointer-events: auto;
+background-color: #fff;
+background-clip: padding-box;
+border: 1px solid rgba(0,0,0,.2);
+border-radius: 1.1rem;
+outline: 0;
+max-width: 500px;
+}
+   .tx-tfm{
+   text-transform:uppercase;
+   }
+   .mybtn{
+   border-radius:50px;
+   }
+  
+   .login-or {
+   position: relative;
+   color: #aaa;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   }
+   .span-or {
+   display: block;
+   position: absolute;
+   left: 50%;
+   top: -2px;
+   margin-left: -25px;
+   background-color: #fff;
+   width: 50px;
+   text-align: center;
+   }
+   .hr-or {
+   height: 1px;
+   margin-top: 0px !important;
+   margin-bottom: 0px !important;
+   }
+   .google {
+   color:#666;
+   width:100%;
+   height:40px;
+   text-align:center;
+   outline:none;
+   border: 1px solid lightgrey;
+   }
+    form .error {
+   color: #ff0000;
+   }
+
+   
+.item_content {
+  width: 1150px;
+  display: grid;
+  grid-template-columns: 690px 1fr;
+  margin-left: 50px;
+}
+
+.item_img {
+  margin-left: 50px;
+  width: 660px;
+  height: auto;
+  margin-left: 0;
+  margin-bottom: 18px;
+}
+
+/* .big_img {
+  
+} */
+
+.small {
+  width: 145px;
+  height: auto;
+  margin-right: 23.5px;
+}
+
+.back a:link,
+.back a:visited {
+  color: #68899a;
+  text-decoration: none;
+}
+
+#item_name {
+  margin-top: 40px;
+  margin-bottom: 17px;
+}
+
+.review span {
+  border-right: 1px solid black;
+  padding-right: 14px;
+  margin-right: 14px;
+}
+
+.review a:visited,
+.review a:link {
+  color: black;
+  text-decoration: none;
+}
+
+.list_price {
+  margin-top: 17px;
+  margin-bottom: 28px;
+  font-size: 22px;
+  color: #68899a;
+}
+
+.item_status a:link,
+.item_status a:visited,
+#instock {
+  color: #68899a;
+  text-decoration: none;
+}
+
+.code {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.item_desc {
+  margin-top: 28px;
+  margin-bottom: 28px;
+  text-align: justify;
+}
+
+.item_details {
+  margin-left: 19px;
+  margin-bottom: 32px;
+}
+
+.item_select {
+  display: grid;
+  grid-template-columns: 170px 170px 70px;
+  grid-gap: 30px;
+}
+
+#colorSelect,
+#sizeSelect {
+  margin-top: 15px;
+  width: 170px;
+  height: 36px;
+  outline: none;
+  border: 1px solid #919191;
+  color: #919191;
+  padding-left: 5px;
+  box-sizing: border-box;
+}
+
+#qty_select {
+  margin-top: 15px;
+  width: 70px;
+  height: 36px;
+  outline: none;
+  border: 1px solid #919191;
+  color: #919191;
+  box-sizing: border-box;
+  padding-left: 10px;
+}
+
+.error {
+  margin-top: 10px;
+  color: red;
+  display: none;
+}
+
+.clear_select {
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+#clear {
+  text-decoration: underline;
+  border: none;
+  background-color: white;
+}
+
+#cart {
+  width: 230px;
+  height: 60px;
+  font-size: 16px;
+}
+
+#cart {
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+
+.item-price{
+  color:red;
+}
+
+
+
+   

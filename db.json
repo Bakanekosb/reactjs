@@ -1,0 +1,602 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "product_category": "Nam",
+      "name": "Refined Steel Shoes 21",
+      "price": "1231",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s006-sa321-2-thumb-.jpg",
+      "status": false,
+      "quantity": "123"
+    },
+    {
+      "id": "2",
+      "product_category": "Nữ",
+      "name": "Refined Steel Shoes 21",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/6ot21s002-sm274-1-thumb-.jpg",
+      "price": "111",
+      "status": false,
+      "quantity": "12"
+    },
+    {
+      "id": "3",
+      "product_category": "Nữ",
+      "name": "Awesome Soft Fish1",
+      "price": "1633.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/6ot21s002-sm274-1-thumb-.jpg",
+      "status": false,
+      "quantity": "32"
+    },
+    {
+      "id": "4",
+      "product_category": "Nam",
+      "name": "Gorgeous Concrete Car",
+      "price": "728.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s012-sb857-2-thumb-.jpg",
+      "status": false,
+      "quantity": "44"
+    },
+    {
+      "id": "5",
+      "product_category": "Nam",
+      "name": "Fantastic Fresh Fish",
+      "price": "364.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s006-sa321-2-thumb-.jpg",
+      "status": false,
+      "quantity": "33"
+    },
+    {
+      "id": "6",
+      "product_category": "Nam",
+      "name": "Gorgeous Metal Soap",
+      "price": "654.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s023-sb792-3-thumb-a-.jpg",
+      "status": false
+    },
+    {
+      "id": "7",
+      "product_category": "Nam",
+      "name": "Tasty Fresh Pizza",
+      "price": "795.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s022-sr227-3-thumb-a-.jpg",
+      "status": false
+    },
+    {
+      "id": "8",
+      "product_category": "Nam",
+      "name": "Tasty Concrete Towels",
+      "price": "513.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s019-sw001-2-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "9",
+      "product_category": "Nam",
+      "name": "Awesome Metal Computer",
+      "price": "741.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/6ts21s023-sg260-2-thumb-.jpg",
+      "quantity": "12",
+      "status": false
+    },
+    {
+      "id": "10",
+      "product_category": "Nam",
+      "name": "Small Rubber Cheese",
+      "price": "471.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s004-pb288-m-1-.jpg",
+      "status": false
+    },
+    {
+      "id": "11",
+      "product_category": "Nam",
+      "name": "Handcrafted Soft Salad 123",
+      "price": "824",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s004-pb288-m-1-.jpg",
+      "status": false
+    },
+    {
+      "id": "12",
+      "product_category": "Nữ",
+      "name": "Licensed Steel Soap",
+      "price": "611.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/6ts21s008-sg398-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "13",
+      "product_category": "Nữ",
+      "name": "Handmade Frozen Ball",
+      "price": "821.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/6ts21s028_sm361-2-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "14",
+      "product_category": "Nam",
+      "name": "Handmade Plastic Table 1",
+      "price": "1894.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s012-sb857-2-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "15",
+      "product_category": "Trẻ em",
+      "name": "Generic Fresh Glovesq",
+      "price": "1156.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s025-sp072-3-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "16",
+      "product_category": "Trẻ em",
+      "name": "Generic Soft Keyboard",
+      "price": "933.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s011-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "17",
+      "product_category": "Trẻ em",
+      "name": "Intelligent Granite Table",
+      "price": "694.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s011-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "18",
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "19",
+      "product_category": "Nữ",
+      "name": "Rustic Metal Table",
+      "price": "841.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/6th21s009-sg354-2-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": "20",
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 01",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 22,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 02",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 23,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 03",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 24,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 04",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 25,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 05",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 26,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 06",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s002-sm084-1-thumb-.jpg",
+      "status": true
+    },
+    {
+      "id": 28,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 07",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 29,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 08",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s002-sm084-1-thumb-.jpg",
+      "status": true
+    },
+    {
+      "id": 30,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 09",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 31,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 10",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 32,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 11",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s002-sm084-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 33,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 12",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s010-sb862-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 34,
+      "product_category": "Trẻ em",
+      "name": "Small Soft Shirt 13",
+      "price": "797.00",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/1ts21s002-sm084-1-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 35,
+      "product_category": "Nam",
+      "name": "Áo nam 01",
+      "price": "432",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s006-sa321-2-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 36,
+      "product_category": "Nam",
+      "name": "quan ao nam 1",
+      "price": "43240",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s006-sa321-2-thumb-.jpg",
+      "status": false
+    },
+    {
+      "id": 37,
+      "product_category": "Nam",
+      "name": "quan ao nam 011",
+      "price": "4311",
+      "image": "https://media.canifa.com/catalog/product/cache_generated/500x/8ts21s006-sa321-2-thumb-.jpg",
+      "status": false
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Michal Robelow",
+      "phone": "802-666-1732",
+      "email": "mrobelow0@oracle.com",
+      "gender": "Bigender",
+      "password": "3t5luN8UkuT",
+      "status": false,
+      "image": "http://dummyimage.com/165x100.png/dddddd/000000"
+    },
+    {
+      "id": 2,
+      "name": "Ewell Stickel",
+      "phone": "818-661-2552",
+      "email": "estickel1@1688.com",
+      "gender": "Genderfluid",
+      "password": "pVdsrHq",
+      "status": true,
+      "image": "http://dummyimage.com/122x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 3,
+      "name": "Henryetta Henner",
+      "phone": "118-511-1881",
+      "email": "hhenner2@xinhuanet.com",
+      "gender": "Bigender",
+      "password": "EDUKBz6Gp",
+      "status": false,
+      "image": "http://dummyimage.com/248x100.png/dddddd/000000"
+    },
+    {
+      "id": 4,
+      "name": "Leandra Lampaert",
+      "phone": "202-205-6188",
+      "email": "llampaert3@mysql.com",
+      "gender": "Male",
+      "password": "2R0Wj6Dh",
+      "status": false,
+      "image": "http://dummyimage.com/202x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 5,
+      "name": "Lorne Gwillyam",
+      "phone": "167-533-8114",
+      "email": "lgwillyam4@wix.com",
+      "gender": "Genderqueer",
+      "password": "I9OFUW",
+      "status": false,
+      "image": "http://dummyimage.com/222x100.png/dddddd/000000"
+    },
+    {
+      "id": 6,
+      "name": "Esdras Tracey",
+      "phone": "110-810-6220",
+      "email": "etracey5@ted.com",
+      "gender": "Agender",
+      "password": "eHbyobMUMt",
+      "status": true,
+      "image": "http://dummyimage.com/192x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 7,
+      "name": "Jena Nattriss",
+      "phone": "660-502-6599",
+      "email": "jnattriss6@cnbc.com",
+      "gender": "Genderqueer",
+      "password": "wZQ2khocY8",
+      "status": false,
+      "image": "http://dummyimage.com/228x100.png/dddddd/000000"
+    },
+    {
+      "id": 8,
+      "name": "Jaimie Everal",
+      "phone": "415-492-8656",
+      "email": "jeveral7@google.com.br",
+      "gender": "Female",
+      "password": "vBVVffuocT",
+      "status": true,
+      "image": "http://dummyimage.com/157x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 9,
+      "name": "Katharina Backshaw",
+      "phone": "506-997-1500",
+      "email": "kbackshaw8@comcast.net",
+      "gender": "Agender",
+      "password": "PXB4Ajxn0oUD",
+      "status": true,
+      "image": "http://dummyimage.com/125x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 10,
+      "name": "Roxanne Colbron",
+      "phone": "201-522-6471",
+      "email": "rcolbron9@who.int",
+      "gender": "Polygender",
+      "password": "eBHZ2e",
+      "status": true,
+      "image": "http://dummyimage.com/228x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 11,
+      "name": "Jerri Grieve",
+      "phone": "558-828-3745",
+      "email": "jgrievea@addtoany.com",
+      "gender": "Genderqueer",
+      "password": "8HMttk8zt",
+      "status": true,
+      "image": "http://dummyimage.com/118x100.png/dddddd/000000"
+    },
+    {
+      "id": 12,
+      "name": "Henriette Upchurch",
+      "phone": "151-882-9284",
+      "email": "hupchurchb@google.com.hk",
+      "gender": "Polygender",
+      "password": "jyeLuX",
+      "status": true,
+      "image": "http://dummyimage.com/183x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 13,
+      "name": "Ogdan Skillen",
+      "phone": "739-358-2963",
+      "email": "oskillenc@github.com",
+      "gender": "Female",
+      "password": "cYCSKHWd5UsB",
+      "status": false,
+      "image": "http://dummyimage.com/113x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 14,
+      "name": "Ginelle Brasseur",
+      "phone": "975-439-9757",
+      "email": "gbrasseurd@123-reg.co.uk",
+      "gender": "Genderfluid",
+      "password": "FsxyJPHg1Bc",
+      "status": true,
+      "image": "http://dummyimage.com/230x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 15,
+      "name": "Alisun Emanuele",
+      "phone": "995-889-3228",
+      "email": "aemanuelee@washington.edu",
+      "gender": "Genderqueer",
+      "password": "pVgDsivX1E",
+      "status": true,
+      "image": "http://dummyimage.com/239x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 16,
+      "name": "Mylo Barfitt",
+      "phone": "157-837-6819",
+      "email": "mbarfittf@twitter.com",
+      "gender": "Female",
+      "password": "9FdjislKuM0",
+      "status": false,
+      "image": "http://dummyimage.com/107x100.png/cc0000/ffffff"
+    },
+    {
+      "id": 17,
+      "name": "Risa Whittington",
+      "phone": "236-422-2073",
+      "email": "rwhittingtong@ca.gov",
+      "gender": "Agender",
+      "password": "ZK5lL5",
+      "status": true,
+      "image": "http://dummyimage.com/117x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 18,
+      "name": "Minnie Comino",
+      "phone": "350-929-8053",
+      "email": "mcominoh@nydailynews.com",
+      "gender": "Polygender",
+      "password": "68ahW4YeJQ",
+      "status": true,
+      "image": "http://dummyimage.com/109x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 19,
+      "name": "Eadie Ten Broek",
+      "phone": "771-187-2436",
+      "email": "eteni@squarespace.com",
+      "gender": "Agender",
+      "password": "DT26aGtLa2S",
+      "status": true,
+      "image": "http://dummyimage.com/118x100.png/5fa2dd/ffffff"
+    },
+    {
+      "id": 20,
+      "name": "Marsiella Bygate",
+      "phone": "662-521-8712",
+      "email": "mbygatej@apache.org",
+      "gender": "Polygender",
+      "password": "lNRVi6",
+      "status": false,
+      "image": "http://dummyimage.com/127x100.png/ff4444/ffffff"
+    },
+    {
+      "id": 21,
+      "name": "Quang Hoang",
+      "phone": "123412341234",
+      "email": "quanghoang@gmail.com",
+      "gender": "Nam",
+      "status": true,
+      "role": 0
+    },
+    {
+      "id": 22,
+      "name": "quang",
+      "phone": "1234234324",
+      "email": "quangquangquang@gmail.com",
+      "gender": "Nam",
+      "status": true,
+      "password": "12341234",
+      "role": "0"
+    },
+    {
+      "id": 23,
+      "name": "mot hai ba",
+      "phone": "4312421312",
+      "email": "mothaiba@gmail.com",
+      "gender": "Nam",
+      "status": true,
+      "password": "12341234",
+      "role": "0"
+    }
+  ],
+  "users": [
+    {
+      "email": "quanghhph12710@fpt.edu.vn",
+      "password": "$2a$10$Xb7vyTvUE41wrGYfDrrUDePo4pLtc5kLvVtdedkysWz/XfyIlz9Ye",
+      "name": "Quan Hoan",
+      "id": 1
+    },
+    {
+      "email": "quanghhph@fpt.edu.vn",
+      "password": "$2a$10$Xr1sgyoOZ5PC0hJAEagquuvHsTsadBF8uAxti2b8.Q/ZEzPvGAmzi",
+      "name": "Quan Hoang",
+      "id": 2
+    },
+    {
+      "email": "quanghhph1@fpt.edu.vn",
+      "password": "$2a$10$JdWNcXjLsu5EIlfEjyA8DeeghbZRfR36l19yfJS6yShwA7eJSv2Iq",
+      "name": "Quang Hoang",
+      "id": 3
+    },
+    {
+      "email": "quang@yahoo.com",
+      "password": "$2a$10$36TvLHrjOMf0HQz6.pSNAObfjaO7CMxv5xmFUtGbLvGWPzhGQIehe",
+      "name": "quang",
+      "id": 4
+    },
+    {
+      "email": "quang1@yahoo.com",
+      "password": "$2a$10$jaMd.0AZBIPNNW96ZqFFvuBALABv1le2oZdcORC4W7AyfDOBRANRO",
+      "name": "quang",
+      "confirm_password": "12341234",
+      "id": 5
+    },
+    {
+      "email": "quang@msn.co",
+      "password": "$2a$10$zDa0RH0o6uVVDI4WkiPJhOFnIPGqUlUsoSw7ADNoVrA/quNwPyhUW",
+      "name": "quang",
+      "confirm_password": "12341234",
+      "id": 6
+    },
+    {
+      "email": "quangquang@gmail.com",
+      "password": "$2a$10$nrdbh3OjRfo.g7pkghJtcOt45HNvzuO0W/bgq/re9dS/.FKQRtyzO",
+      "name": "quan",
+      "confirm_password": "12341234",
+      "id": 7
+    },
+    {
+      "email": "quang1234@gmail.com",
+      "password": "$2a$10$qzBq4suZKmDoJTOtKplSbemf56s3FuCH4n.vkFXJLrGbSgtiWD3vy",
+      "name": "admin",
+      "confirm_password": "12341234",
+      "role": "1",
+      "id": 8
+    },
+    {
+      "email": "mothaiba@gmail.com",
+      "password": "$2a$10$B/LtdPx2om9mdrDjEGHAwOh9oC9cGUHke9C/bXbxEw7e2NhVbZ15e",
+      "id": 23,
+      "name": "mot hai ba",
+      "phone": "4312421312",
+      "gender": "Nam",
+      "status": true,
+      "role": "0"
+    },
+    {
+      "email": "quanghh@gmail.com",
+      "password": "$2a$10$EJ80cDwtL9Lody2pd9Za5uj6zThSaeyRb4O0JBE3qj7ZvI9s9jUKm",
+      "name": "quang",
+      "confirm_password": "12341234",
+      "role": "0",
+      "id": 24
+    },
+    {
+      "email": "quanghoang1@gmail.com",
+      "password": "$2a$10$Y1LEIzXhUQDEqFGdWDbNkOyMuGxjxUFv/2wshQn6..yD0llXOM2GK",
+      "name": "quang",
+      "confirm_password": "12341234",
+      "role": "0",
+      "id": 25
+    }
+  ]
+}
