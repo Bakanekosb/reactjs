@@ -3,6 +3,7 @@ import './App.css';
 import Routers from './Routers';
 import { useState, useEffect } from 'react';
 import productAPI from './api/productAPI';
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 function App() {
