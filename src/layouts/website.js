@@ -50,7 +50,7 @@ const WebsiteLayout = (props) => {
                             <p className="lead">Some great placeholder content for the first featurette here. Imagine some exciting prose here.</p>
                         </div>
                         <div className="col-md-5">
-                            <img src="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=425,format=auto/sites/default/files/styles/768x768/public/d8/images/methode/2019/07/19/5df6fae4-a77a-11e9-8d5c-2d5b58977904_image_hires_134935.jpg?itok=vb6zZojT&v=1563515383" width="500px"/>
+                            <img src="https://img.i-scmp.com/cdn-cgi/image/fit=contain,width=425,format=auto/sites/default/files/styles/768x768/public/d8/images/methode/2019/07/19/5df6fae4-a77a-11e9-8d5c-2d5b58977904_image_hires_134935.jpg?itok=vb6zZojT&v=1563515383" width="400px"/>
                             {/* <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width={500} height={500} xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg> */}
                         </div>
                     </div>
@@ -61,7 +61,7 @@ const WebsiteLayout = (props) => {
                             <p className="lead">Another featurette? Of course. More placeholder content here to give you an idea of how this layout would work with some actual real-world content in place.</p>
                         </div>
                         <div className="col-md-5 order-md-1">
-                            <img src="https://cdn.24h.com.vn/upload/2-2021/images/2021-06-06/1622946834-6fdf13f6ec88b5058ef784b687d7fbfb-width645height968.jpg" width="500px"/>
+                            <img src="https://cdn.24h.com.vn/upload/2-2021/images/2021-06-06/1622946834-6fdf13f6ec88b5058ef784b687d7fbfb-width645height968.jpg" width="400px"/>
                             {/* <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width={500} height={500} xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg> */}
                         </div>
                     </div>
@@ -72,7 +72,7 @@ const WebsiteLayout = (props) => {
                             <p className="lead">And yes, this is the last block of representative placeholder content. Again, not really intended to be actually read, simply here to give you a better view of what this would look like with some actual content. Your content.</p>
                         </div>
                         <div className="col-md-5">
-                        <img src="https://i.pinimg.com/originals/0c/aa/3f/0caa3f1b919ba1668d7ebd35455c614d.jpg" width="500px"/>
+                        <img src="https://i.pinimg.com/originals/0c/aa/3f/0caa3f1b919ba1668d7ebd35455c614d.jpg" width="400px"/>
                {/* <svg className="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width={500} height={500} xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee" /><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg> */}
                         </div>
                     </div>
